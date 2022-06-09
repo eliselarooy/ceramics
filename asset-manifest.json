@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ceramics/static/css/main.dc15a78b.css",
+    "main.js": "/ceramics/static/js/main.ec929782.js",
+    "static/js/787.f0b80414.chunk.js": "/ceramics/static/js/787.f0b80414.chunk.js",
+    "static/media/img-012.png": "/ceramics/static/media/img-012.71c233be6ed11375792b.png",
+    "static/media/img-013.png": "/ceramics/static/media/img-013.7b7fdce0458a0da6ef32.png",
+    "static/media/img-009.jpg": "/ceramics/static/media/img-009.18eca10af5857e583260.jpg",
+    "static/media/img-008.jpg": "/ceramics/static/media/img-008.1847af15dd46a3d894aa.jpg",
+    "static/media/img-003.jpg": "/ceramics/static/media/img-003.fe93c48d0b14e93be01e.jpg",
+    "static/media/img-007.jpg": "/ceramics/static/media/img-007.1f64f3e1fc20e361fd84.jpg",
+    "static/media/img-011.png": "/ceramics/static/media/img-011.afcc0665bc2f05a1a156.png",
+    "static/media/img-010.png": "/ceramics/static/media/img-010.a7b427e77943d7528e33.png",
+    "static/media/img-002.jpg": "/ceramics/static/media/img-002.9920730c9a4134a787e5.jpg",
+    "static/media/img-004.jpg": "/ceramics/static/media/img-004.b664e126a181e32ee212.jpg",
+    "static/media/img-005.jpg": "/ceramics/static/media/img-005.bfd27a600d6d60ccd45e.jpg",
+    "static/media/img-006.jpg": "/ceramics/static/media/img-006.c49eaf81188ff3a09299.jpg",
+    "static/media/img-001.jpg": "/ceramics/static/media/img-001.5019267dd29560113988.jpg",
+    "static/media/wheel.jpg": "/ceramics/static/media/wheel.6299676a5466fd913d3b.jpg",
+    "static/media/black-stamp.png": "/ceramics/static/media/black-stamp.e8744fc8bf8532ef3b33.png",
+    "index.html": "/ceramics/index.html",
+    "main.dc15a78b.css.map": "/ceramics/static/css/main.dc15a78b.css.map",
+    "main.ec929782.js.map": "/ceramics/static/js/main.ec929782.js.map",
+    "787.f0b80414.chunk.js.map": "/ceramics/static/js/787.f0b80414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc15a78b.css",
+    "static/js/main.ec929782.js"
+  ]
+}
