@@ -1,1 +1,1 @@
-### Artist Portfolio 
+### Ceramics Portfolio
