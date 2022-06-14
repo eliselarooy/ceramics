@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/ceramics/static/css/main.dc15a78b.css",
-    "main.js": "/ceramics/static/js/main.33e6df23.js",
+    "main.js": "/ceramics/static/js/main.82a15d6a.js",
     "static/js/787.f0b80414.chunk.js": "/ceramics/static/js/787.f0b80414.chunk.js",
-    "static/media/img-012.png": "/ceramics/static/media/img-012.71c233be6ed11375792b.png",
-    "static/media/img-013.png": "/ceramics/static/media/img-013.7b7fdce0458a0da6ef32.png",
-    "static/media/img-009.jpg": "/ceramics/static/media/img-009.18eca10af5857e583260.jpg",
-    "static/media/img-008.jpg": "/ceramics/static/media/img-008.1847af15dd46a3d894aa.jpg",
-    "static/media/img-003.jpg": "/ceramics/static/media/img-003.fe93c48d0b14e93be01e.jpg",
-    "static/media/img-007.jpg": "/ceramics/static/media/img-007.1f64f3e1fc20e361fd84.jpg",
-    "static/media/img-011.png": "/ceramics/static/media/img-011.afcc0665bc2f05a1a156.png",
-    "static/media/img-010.png": "/ceramics/static/media/img-010.a7b427e77943d7528e33.png",
-    "static/media/img-002.jpg": "/ceramics/static/media/img-002.9920730c9a4134a787e5.jpg",
-    "static/media/img-004.jpg": "/ceramics/static/media/img-004.b664e126a181e32ee212.jpg",
-    "static/media/img-005.jpg": "/ceramics/static/media/img-005.bfd27a600d6d60ccd45e.jpg",
-    "static/media/img-006.jpg": "/ceramics/static/media/img-006.c49eaf81188ff3a09299.jpg",
-    "static/media/img-001.jpg": "/ceramics/static/media/img-001.5019267dd29560113988.jpg",
-    "static/media/wheel.jpg": "/ceramics/static/media/wheel.6299676a5466fd913d3b.jpg",
+    "static/media/wheel.jpg": "/ceramics/static/media/wheel.345621aa703cd8eac4d0.jpg",
+    "static/media/img-009.png": "/ceramics/static/media/img-009.85f6c197994d9b20112d.png",
+    "static/media/img-002.png": "/ceramics/static/media/img-002.272aeefea4b1d8097af7.png",
+    "static/media/img-013.png": "/ceramics/static/media/img-013.cfeaa973149cdddb638a.png",
+    "static/media/img-008.png": "/ceramics/static/media/img-008.e2fe633e6c3e30e263b0.png",
+    "static/media/img-012.png": "/ceramics/static/media/img-012.a3c187eb39297fec3ce6.png",
+    "static/media/img-001.png": "/ceramics/static/media/img-001.0c36c9b8b3e6d97f2411.png",
+    "static/media/img-011.png": "/ceramics/static/media/img-011.a06ce9c68fa3b3f58c25.png",
+    "static/media/img-007.png": "/ceramics/static/media/img-007.c23a0df87eab38ce1935.png",
+    "static/media/img-010.png": "/ceramics/static/media/img-010.0e4b79ec851b0a929c28.png",
+    "static/media/img-003.png": "/ceramics/static/media/img-003.024fbe97a5dc1e720706.png",
+    "static/media/img-006.png": "/ceramics/static/media/img-006.0963cafe40f364b4417d.png",
+    "static/media/img-004.png": "/ceramics/static/media/img-004.c3ca1a2ce637cb600a17.png",
+    "static/media/img-005.png": "/ceramics/static/media/img-005.971b43caa947e55437ef.png",
     "static/media/black-stamp.png": "/ceramics/static/media/black-stamp.e8744fc8bf8532ef3b33.png",
     "index.html": "/ceramics/index.html",
     "main.dc15a78b.css.map": "/ceramics/static/css/main.dc15a78b.css.map",
-    "main.33e6df23.js.map": "/ceramics/static/js/main.33e6df23.js.map",
+    "main.82a15d6a.js.map": "/ceramics/static/js/main.82a15d6a.js.map",
     "787.f0b80414.chunk.js.map": "/ceramics/static/js/787.f0b80414.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc15a78b.css",
-    "static/js/main.33e6df23.js"
+    "static/js/main.82a15d6a.js"
   ]
 }
