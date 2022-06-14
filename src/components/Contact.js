@@ -22,7 +22,7 @@ const Contact = () => {
             Instagram
           </a>
         </span>{' '}
-        where I have been documenting my work and process.
+        where I document my work and process.
       </p>
     </div>
   );

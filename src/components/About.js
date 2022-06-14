@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import wheel from '../images/wheel.jpg';
-import img_001 from '../images/img-001.jpg';
+import img_001 from '../images/img-001.png';
 
 const About = () => {
   return (
