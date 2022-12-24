@@ -1,16 +1,10 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import wheel from '../images/wheel.jpg';
-import img_001 from '../images/img-001.png';
+import abbie from '../images/IMG_7299LR.JPG';
 
 const About = () => {
   return (
     <div className="about container">
-      <img
-        className="wheel"
-        src={wheel}
-        alt="Abbie throwing on a potter's wheel"
-      />
+      <img className="abbie" src={abbie} alt="Abbie pulling a candlestick" />
       <div className="about-text">
         <p>
           Abbie La Rooy is a ceramic artist currently working in Dumfries and
@@ -24,16 +18,6 @@ const About = () => {
           continues to develop her process alongside working as a studio
           technician and ceramics teacher.
         </p>
-      </div>
-      <div className="featured-photos">
-        <img src={img_001} alt="" />
-        <img src={img_001} alt="" />
-        <img src={img_001} alt="" />
-        <img src={img_001} alt="" />
-      </div>
-
-      <div className="view-more">
-        <Link to={'/work'}>View More</Link>
       </div>
     </div>
   );

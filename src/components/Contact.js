@@ -1,29 +1,21 @@
 import React from 'react';
+import abbie from '../images/IMG_7247LR.jpg';
 
 const Contact = () => {
   return (
-    <div className="contact">
-      <p>
-        If you have any questions regarding my work, sales or anything else
-        please{' '}
-        <span>
-          <a href="mailto: abbie_larooy@hotmail.co.uk">get in touch</a>
-        </span>
-        .
-      </p>
-      <p>
-        You can also follow me on{' '}
-        <span>
-          <a
-            href="https://www.instagram.com/abbielarooy/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Instagram
-          </a>
-        </span>{' '}
-        where I document my work and process.
-      </p>
+    <div className="contact-page container">
+      <div className="contact">
+        <p>
+          For all enquiries please contact{' '}
+          <span>
+            <a href="mailto: abbie_larooy@hotmail.co.uk">
+              abbie_larooy@hotmail.co.uk
+            </a>
+          </span>
+          .
+        </p>
+      </div>
+      <img src={abbie} alt="Abbie throwing on the wheel" className="abbie" />
     </div>
   );
 };
