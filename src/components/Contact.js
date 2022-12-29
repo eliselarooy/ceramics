@@ -8,9 +8,7 @@ const Contact = () => {
         <p>
           For all enquiries please contact{' '}
           <span>
-            <a href="mailto: abbie_larooy@hotmail.co.uk">
-              abbie_larooy@hotmail.co.uk
-            </a>
+            <a href="mailto: hello@abbielarooy.com">hello@abbielarooy.com</a>
           </span>
           .
         </p>

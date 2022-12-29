@@ -80,6 +80,10 @@ nav a {
   margin: 20px 0 20px 0;
 }
 
+.about-text {
+  text-align: justify;
+}
+
 .about-text,
 .contact {
   margin: 40px 0;
