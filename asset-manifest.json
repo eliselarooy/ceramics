@@ -1,21 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.4afcc42f.css",
-    "main.js": "/static/js/main.692c4509.js",
+    "main.css": "/static/css/main.2c718d58.css",
+    "main.js": "/static/js/main.36e86f61.js",
     "static/js/787.f0b80414.chunk.js": "/static/js/787.f0b80414.chunk.js",
+    "static/media/darted-bowl-ii.JPG": "/static/media/darted-bowl-ii.ba136949b71fb2daf294.JPG",
     "static/media/IMG_7299LR.JPG": "/static/media/IMG_7299LR.1f0ff76b4aaef97c7f49.JPG",
+    "static/media/darted-bowl.jpg": "/static/media/darted-bowl.2850f0d067659ddf4e7f.jpg",
     "static/media/IMG_7247LR.jpg": "/static/media/IMG_7247LR.962291e99066e5198e99.jpg",
-    "static/media/IMG_7428LR.jpg": "/static/media/IMG_7428LR.9eae06370b50057507c8.jpg",
+    "static/media/black-candlesticks.jpg": "/static/media/black-candlesticks.9eae06370b50057507c8.jpg",
+    "static/media/darted-bowl-ii-2.JPG": "/static/media/darted-bowl-ii-2.56bbcfa69410e1cbc691.JPG",
+    "static/media/pointed-ovoid.JPG": "/static/media/pointed-ovoid.be09a088349a869a5343.JPG",
     "static/media/IMG_7428LR-portrait.jpg": "/static/media/IMG_7428LR-portrait.c3697cc7b24d95cb6560.jpg",
+    "static/media/concave-boat-form.jpg": "/static/media/concave-boat-form.f0d59780f6ed71c6de69.jpg",
+    "static/media/concave-boat-form-2.jpg": "/static/media/concave-boat-form-2.efe04535c80e22c637bf.jpg",
+    "static/media/concave-boat-form-3.jpg": "/static/media/concave-boat-form-3.66c68de28911b8834751.jpg",
     "static/media/black-stamp.png": "/static/media/black-stamp.e8744fc8bf8532ef3b33.png",
-    "static/media/IMG_7456LR.jpg": "/static/media/IMG_7456LR.bef9cfc5cf55694e8a3c.jpg",
+    "static/media/curled-slab-smoke-fired-2.jpg": "/static/media/curled-slab-smoke-fired-2.3960c194f827d2b03052.jpg",
+    "static/media/curled-slab-smoke-fired.jpg": "/static/media/curled-slab-smoke-fired.8ac5f3247e5a391fe583.jpg",
     "index.html": "/index.html",
-    "main.4afcc42f.css.map": "/static/css/main.4afcc42f.css.map",
-    "main.692c4509.js.map": "/static/js/main.692c4509.js.map",
+    "main.2c718d58.css.map": "/static/css/main.2c718d58.css.map",
+    "main.36e86f61.js.map": "/static/js/main.36e86f61.js.map",
     "787.f0b80414.chunk.js.map": "/static/js/787.f0b80414.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4afcc42f.css",
-    "static/js/main.692c4509.js"
+    "static/css/main.2c718d58.css",
+    "static/js/main.36e86f61.js"
   ]
 }
