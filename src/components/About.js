@@ -18,6 +18,37 @@ const About = () => {
           continues to develop her process alongside working as a studio
           technician and ceramics teacher.
         </p>
+        <p>
+          <b>Exhibitions/Awards</b>
+        </p>
+        <p>
+          <b>2023</b> - Spring Fling Open Studios, Gracefield Arts Centre,
+          Dumfries.
+        </p>
+        <p>
+          <b>2023</b> - Emerge Mentoring Bursary, Upland CIC.{' '}
+          <a
+            href="https://www.weareupland.com/projects/emerge/blog/emerge-2023-part-1-23032023"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <i>Read blog post.</i>
+          </a>
+        </p>
+
+        <p>
+          <b>2022</b> - Lots of Lot, Lot Projects, London.
+        </p>
+
+        <p>
+          <b>2019</b> - The Milk Has Turned Against Us Goldsmiths Design Degree
+          Show, Copeland Park, London.
+        </p>
+
+        <p>
+          <b>2016</b> - Saatchi Gallery/Deutsche Bank Art Prize for Schools
+          Saatchi Gallery, London (shortlisted).
+        </p>
       </div>
     </div>
   );
