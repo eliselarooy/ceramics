@@ -160,6 +160,10 @@ nav a {
   margin: 40px 0;
 }
 
+.contact a {
+  font-weight: bold;
+}
+
 .container {
   padding-bottom: 8rem;
 }
@@ -189,4 +193,12 @@ nav a {
 
 nav .active {
   color: grey;
+}
+
+.exhibitions {
+  text-align: left;
+}
+
+.exhibitions u {
+  text-decoration: underline;
 }

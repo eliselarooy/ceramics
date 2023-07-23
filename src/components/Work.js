@@ -20,6 +20,7 @@ const Work = () => {
               src={blackcandlesticks}
               alt="Black Candlesticks"
               className="gallery-img"
+              loading="lazy"
             />
             <p className="title">Black Candlesticks</p>
             <p>Thrown and altered, stoneware, black glaze</p>
@@ -29,77 +30,72 @@ const Work = () => {
               src={pointedovoid}
               alt="Pointed Ovoid"
               className="gallery-img"
+              loading="lazy"
             />
             <p className="title">Pointed Ovoid</p>
-            <p>
-              Thrown and altered, terracotta, wild Dumfries clay terra sigillata
-            </p>
+            <p>Thrown and altered, terracotta, Dumfries terra sigillata</p>
           </li>
           <li>
             <img
               src={concaveboatform2}
               alt="Concave Boat Form"
               className="gallery-img"
+              loading="lazy"
             />
             <p className="title">Concave Boat Form</p>
-            <p>
-              Thrown and altered, terracotta, wild Dumfries clay terra sigillata
-            </p>
+            <p>Thrown and altered, terracotta, Dumfries terra sigillata</p>
           </li>
           <li>
             <img
               src={concaveboatform3}
               alt="Concave Boat Form"
               className="gallery-img"
+              loading="lazy"
             />
             <p className="title">Concave Boat Form</p>
-            <p>
-              Thrown and altered, terracotta, wild Dumfries clay terra sigillata
-            </p>
+            <p>Thrown and altered, terracotta, Dumfries terra sigillata</p>
           </li>
           <li>
             <img
               src={concaveboatform}
               alt="Concave Boat Form"
               className="gallery-img"
+              loading="lazy"
             />
             <p className="title">Concave Boat Form</p>
-            <p>
-              Thrown and altered, terracotta, wild Dumfries clay terra sigillata
-            </p>
+            <p>Thrown and altered, terracotta, Dumfries terra sigillata</p>
           </li>
           <li>
             <img
               src={dartedbowlii2}
               alt="Darted Bowl II"
               className="gallery-img"
+              loading="lazy"
             />
             <p className="title">Darted Bowl II</p>
-            <p>
-              Thrown and altered, terracotta, wild Dumfries clay terra sigillata
-            </p>
+            <p>Thrown and altered, terracotta, Dumfries terra sigillata</p>
           </li>
           <li>
             <img
               src={dartedbowlii}
               alt="Darted Bowl II"
               className="gallery-img"
+              loading="lazy"
             />
             <p className="title">Darted Bowl II</p>
-            <p>
-              Thrown and altered, terracotta, wild Dumfries clay terra sigillata
-            </p>
+            <p>Thrown and altered, terracotta, Dumfries terra sigillata</p>
           </li>
           <li>
             <img
               src={curledslabsmokefired2}
               alt="Curled Slab smoke fired"
               className="gallery-img"
+              loading="lazy"
             />
             <p className="title">Curled Slab</p>
             <p>
-              Thrown and altered, terracotta, wild Dumfries clay terra
-              sigillata, smoke fired
+              Thrown and altered, terracotta, Dumfries terra sigillata, smoke
+              fired
             </p>
           </li>
           <li>
@@ -107,19 +103,23 @@ const Work = () => {
               src={curledslabsmokefired}
               alt="Curled Slab smoke fired"
               className="gallery-img"
+              loading="lazy"
             />
             <p className="title">Curled Slab</p>
             <p>
-              Thrown and altered, terracotta, wild Dumfries clay terra
-              sigillata, smoke fired
+              Thrown and altered, terracotta, Dumfries terra sigillata, smoke
+              fired
             </p>
           </li>
           <li>
-            <img src={dartedbowl} alt="Darted Bowl" className="gallery-img" />
+            <img
+              src={dartedbowl}
+              alt="Darted Bowl"
+              className="gallery-img"
+              loading="lazy"
+            />
             <p className="title">Darted Bowl I</p>
-            <p>
-              Thrown and altered, terracotta, wild Dumfries clay terra sigillata
-            </p>
+            <p>Thrown and altered, terracotta, Dumfries terra sigillata</p>
           </li>
           <li></li>
         </ul>
