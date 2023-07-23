@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c718d58.css",
-    "main.js": "/static/js/main.36e86f61.js",
+    "main.css": "/static/css/main.9dc65d2c.css",
+    "main.js": "/static/js/main.49b5ea36.js",
     "static/js/787.f0b80414.chunk.js": "/static/js/787.f0b80414.chunk.js",
     "static/media/darted-bowl-ii.JPG": "/static/media/darted-bowl-ii.ba136949b71fb2daf294.JPG",
     "static/media/IMG_7299LR.JPG": "/static/media/IMG_7299LR.1f0ff76b4aaef97c7f49.JPG",
@@ -18,12 +18,12 @@
     "static/media/curled-slab-smoke-fired-2.jpg": "/static/media/curled-slab-smoke-fired-2.3960c194f827d2b03052.jpg",
     "static/media/curled-slab-smoke-fired.jpg": "/static/media/curled-slab-smoke-fired.8ac5f3247e5a391fe583.jpg",
     "index.html": "/index.html",
-    "main.2c718d58.css.map": "/static/css/main.2c718d58.css.map",
-    "main.36e86f61.js.map": "/static/js/main.36e86f61.js.map",
+    "main.9dc65d2c.css.map": "/static/css/main.9dc65d2c.css.map",
+    "main.49b5ea36.js.map": "/static/js/main.49b5ea36.js.map",
     "787.f0b80414.chunk.js.map": "/static/js/787.f0b80414.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c718d58.css",
-    "static/js/main.36e86f61.js"
+    "static/css/main.9dc65d2c.css",
+    "static/js/main.49b5ea36.js"
   ]
 }
