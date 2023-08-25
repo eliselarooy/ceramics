@@ -1,5 +1,5 @@
 import React from 'react';
-import abbie from '../images/IMG_7247LR.jpg';
+import abbie from '../images/throwing-andy-priestman-emerge-august-2023.jpg';
 
 const Contact = () => {
   return (

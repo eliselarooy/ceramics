@@ -23,6 +23,9 @@ const About = () => {
             <b>Exhibitions/Awards</b>
           </p>
           <p>
+            <b>2023</b> - The Amber Room, Matt's Gallery, London.
+          </p>
+          <p>
             <b>2023</b> - Spring Fling Open Studios, Gracefield Arts Centre,
             Dumfries.
           </p>
