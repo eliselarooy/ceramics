@@ -1,11 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9a77991a.css",
-    "main.js": "/static/js/main.6f96ff86.js",
-    "static/js/787.f0b80414.chunk.js": "/static/js/787.f0b80414.chunk.js",
+    "main.js": "/static/js/main.c0f1992f.js",
+    "static/js/787.2b70f588.chunk.js": "/static/js/787.2b70f588.chunk.js",
+    "static/media/danseurs2.jpg": "/static/media/danseurs2.b71c8765264401e1571e.jpg",
     "static/media/darted-bowl-ii.JPG": "/static/media/darted-bowl-ii.ba136949b71fb2daf294.JPG",
     "static/media/IMG_7299LR.JPG": "/static/media/IMG_7299LR.1f0ff76b4aaef97c7f49.JPG",
     "static/media/darted-bowl.jpg": "/static/media/darted-bowl.2850f0d067659ddf4e7f.jpg",
+    "static/media/danseurs3.jpg": "/static/media/danseurs3.2ef2d062cb22318a8ead.jpg",
+    "static/media/danseurs1.jpg": "/static/media/danseurs1.18f892197027e683543e.jpg",
     "static/media/throwing-andy-priestman-emerge-august-2023.jpg": "/static/media/throwing-andy-priestman-emerge-august-2023.a61745e0e1d3112ecc5e.jpg",
     "static/media/black-candlesticks.jpg": "/static/media/black-candlesticks.9eae06370b50057507c8.jpg",
     "static/media/darted-bowl-ii-2.JPG": "/static/media/darted-bowl-ii-2.56bbcfa69410e1cbc691.JPG",
@@ -19,11 +22,11 @@
     "static/media/curled-slab-smoke-fired.jpg": "/static/media/curled-slab-smoke-fired.8ac5f3247e5a391fe583.jpg",
     "index.html": "/index.html",
     "main.9a77991a.css.map": "/static/css/main.9a77991a.css.map",
-    "main.6f96ff86.js.map": "/static/js/main.6f96ff86.js.map",
-    "787.f0b80414.chunk.js.map": "/static/js/787.f0b80414.chunk.js.map"
+    "main.c0f1992f.js.map": "/static/js/main.c0f1992f.js.map",
+    "787.2b70f588.chunk.js.map": "/static/js/787.2b70f588.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a77991a.css",
-    "static/js/main.6f96ff86.js"
+    "static/js/main.c0f1992f.js"
   ]
 }
