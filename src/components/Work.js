@@ -9,6 +9,9 @@ import dartedbowlii from '../galleryimages/darted-bowl-ii.JPG';
 import dartedbowl from '../galleryimages/darted-bowl.jpg';
 import pointedovoid from '../galleryimages/pointed-ovoid.JPG';
 import blackcandlesticks from '../galleryimages/black-candlesticks.jpg';
+import danseurs1 from '../galleryimages/danseurs1.jpg';
+import danseurs2 from '../galleryimages/danseurs2.jpg';
+import danseurs3 from '../galleryimages/danseurs3.jpg';
 
 const Work = () => {
   return (
@@ -17,13 +20,42 @@ const Work = () => {
         <ul>
           <li>
             <img
-              src={blackcandlesticks}
-              alt="Black Candlesticks"
+              src={danseurs1}
+              alt="Candlesticks"
               className="gallery-img"
               loading="lazy"
             />
-            <p className="title">Black Candlesticks</p>
-            <p>Thrown and altered, stoneware, black glaze</p>
+            <p className="title">Danseurs</p>
+            <p>
+              Thrown and altered, stoneware, wood ash grey, chartreuse crackle,
+              dolomite glazes
+            </p>
+          </li>
+          <li>
+            <img
+              src={danseurs2}
+              alt="Candlesticks"
+              className="gallery-img"
+              loading="lazy"
+            />
+            <p className="title">Danseurs</p>
+            <p>
+              Thrown and altered, stoneware, wood ash grey, chartreuse crackle,
+              dolomite glazes
+            </p>
+          </li>
+          <li>
+            <img
+              src={danseurs3}
+              alt="Candlesticks"
+              className="gallery-img"
+              loading="lazy"
+            />
+            <p className="title">Danseurs</p>
+            <p>
+              Thrown and altered, stoneware, wood ash grey, chartreuse crackle,
+              dolomite glazes
+            </p>
           </li>
           <li>
             <img
@@ -120,6 +152,16 @@ const Work = () => {
             />
             <p className="title">Darted Bowl I</p>
             <p>Thrown and altered, terracotta, Dumfries terra sigillata</p>
+          </li>
+          <li>
+            <img
+              src={blackcandlesticks}
+              alt="Black Candlesticks"
+              className="gallery-img"
+              loading="lazy"
+            />
+            <p className="title">Black Candlesticks</p>
+            <p>Thrown and altered, stoneware, black glaze</p>
           </li>
           <li></li>
         </ul>
