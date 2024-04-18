@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.9a77991a.css",
-    "main.js": "/static/js/main.04efb2d8.js",
+    "main.js": "/static/js/main.5368d667.js",
     "static/js/453.408ddace.chunk.js": "/static/js/453.408ddace.chunk.js",
+    "static/media/tautseamvessel.JPG": "/static/media/tautseamvessel.a21f62b7e80698792f89.JPG",
     "static/media/danseurs2.jpg": "/static/media/danseurs2.b71c8765264401e1571e.jpg",
     "static/media/darted-bowl-ii.JPG": "/static/media/darted-bowl-ii.ba136949b71fb2daf294.JPG",
     "static/media/IMG_7299LR.JPG": "/static/media/IMG_7299LR.1f0ff76b4aaef97c7f49.JPG",
@@ -22,11 +23,11 @@
     "static/media/curled-slab-smoke-fired.jpg": "/static/media/curled-slab-smoke-fired.8ac5f3247e5a391fe583.jpg",
     "index.html": "/index.html",
     "main.9a77991a.css.map": "/static/css/main.9a77991a.css.map",
-    "main.04efb2d8.js.map": "/static/js/main.04efb2d8.js.map",
+    "main.5368d667.js.map": "/static/js/main.5368d667.js.map",
     "453.408ddace.chunk.js.map": "/static/js/453.408ddace.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a77991a.css",
-    "static/js/main.04efb2d8.js"
+    "static/js/main.5368d667.js"
   ]
 }
