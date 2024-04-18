@@ -12,12 +12,23 @@ import blackcandlesticks from '../galleryimages/black-candlesticks.jpg';
 import danseurs1 from '../galleryimages/danseurs1.jpg';
 import danseurs2 from '../galleryimages/danseurs2.jpg';
 import danseurs3 from '../galleryimages/danseurs3.jpg';
+import tautseamvessel from '../galleryimages/tautseamvessel.JPG';
 
 const Work = () => {
   return (
     <div className="contact-page container gallery-page">
       <div className="gallery">
         <ul>
+          <li>
+            <img
+              src={tautseamvessel}
+              alt="Taut seam vessel"
+              className="gallery-img"
+              loading="lazy"
+            />
+            <p className="title">Taut Seam Vessel</p>
+            <p>Thrown and altered, unglazed stoneware, wood fired</p>
+          </li>
           <li>
             <img
               src={danseurs1}

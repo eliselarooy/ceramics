@@ -7,16 +7,16 @@ const About = () => {
       <img className="abbie" src={abbie} alt="Abbie pulling a candlestick" />
       <div className="about-text">
         <p>
-          Abbie La Rooy is a ceramic artist currently working in Dumfries and
-          Galloway, Scotland.
+          Abbie La Rooy is a ceramic artist currently working in Tāmaki Makaurau
+          Auckland, NZ.
         </p>
         <p>
           Abbie graduated from Goldsmiths, University of London in 2019 with a
           B.A. in Design. Her current work explores the inherent material
           properties of clay and her interaction with it. She often incorporates
           wild clays she has harvested herself from the local landscape. Abbie
-          continues to develop her process alongside working as a studio
-          technician and ceramics teacher.
+          continues to develop her practice alongside working as a gallery
+          technician.
         </p>
         <div className="exhibitions">
           <p>
