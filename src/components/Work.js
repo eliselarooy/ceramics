@@ -1,4 +1,8 @@
 import React from 'react';
+import pleatseries1 from '../galleryimages/pleat1.JPG';
+import pleatseries2 from '../galleryimages/pleat2.JPG';
+import supplecube from '../galleryimages/supplecube.JPG';
+import swollenbox from '../galleryimages/swollenbox.JPG';
 import concaveboatform2 from '../galleryimages/concave-boat-form-2.jpg';
 import concaveboatform3 from '../galleryimages/concave-boat-form-3.jpg';
 import concaveboatform from '../galleryimages/concave-boat-form.jpg';
@@ -8,11 +12,9 @@ import dartedbowlii2 from '../galleryimages/darted-bowl-ii-2.JPG';
 import dartedbowlii from '../galleryimages/darted-bowl-ii.JPG';
 import dartedbowl from '../galleryimages/darted-bowl.jpg';
 import pointedovoid from '../galleryimages/pointed-ovoid.JPG';
-import blackcandlesticks from '../galleryimages/black-candlesticks.jpg';
 import danseurs1 from '../galleryimages/danseurs1.jpg';
 import danseurs2 from '../galleryimages/danseurs2.jpg';
 import danseurs3 from '../galleryimages/danseurs3.jpg';
-import tautseamvessel from '../galleryimages/tautseamvessel.JPG';
 
 const Work = () => {
   return (
@@ -21,13 +23,36 @@ const Work = () => {
         <ul>
           <li>
             <img
-              src={tautseamvessel}
-              alt="Taut seam vessel"
+              src={pleatseries1}
+              alt="Wood fired ridge panel"
               className="gallery-img"
               loading="lazy"
             />
-            <p className="title">Taut Seam Vessel</p>
-            <p>Thrown and altered, unglazed stoneware, wood fired</p>
+            <p className="title">Pleat Series</p>
+            <p>Slab built, unglazed stoneware paper clay, wood fired</p>
+          </li>
+          <li>
+            <img
+              src={pleatseries2}
+              alt="Wood fired ridge panel]"
+              className="gallery-img"
+              loading="lazy"
+            />
+            <p className="title">Pleat Series</p>
+            <p>Slab built, unglazed stoneware paper clay, wood fired</p>
+          </li>
+          <li>
+            <img
+              src={supplecube}
+              alt="Supple Cube"
+              className="gallery-img"
+              loading="lazy"
+            />
+            <p className="title">Supple Cube</p>
+            <p>
+              Thrown and altered, unglazed stoneware, inflated with bike pump,
+              wood fired
+            </p>
           </li>
           <li>
             <img
@@ -67,6 +92,16 @@ const Work = () => {
               Thrown and altered, stoneware, wood ash grey, chartreuse crackle,
               dolomite glazes
             </p>
+          </li>
+          <li>
+            <img
+              src={swollenbox}
+              alt="Swollen Box"
+              className="gallery-img"
+              loading="lazy"
+            />
+            <p className="title">Swollen Box</p>
+            <p>Slab built, terracotta, Dumfries terra sigillata</p>
           </li>
           <li>
             <img
@@ -163,16 +198,6 @@ const Work = () => {
             />
             <p className="title">Darted Bowl I</p>
             <p>Thrown and altered, terracotta, Dumfries terra sigillata</p>
-          </li>
-          <li>
-            <img
-              src={blackcandlesticks}
-              alt="Black Candlesticks"
-              className="gallery-img"
-              loading="lazy"
-            />
-            <p className="title">Black Candlesticks</p>
-            <p>Thrown and altered, stoneware, black glaze</p>
           </li>
           <li></li>
         </ul>
