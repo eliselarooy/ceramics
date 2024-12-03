@@ -23,6 +23,9 @@ const About = () => {
             <b>Exhibitions/Awards</b>
           </p>
           <p>
+            <b>2024</b> - Pushing Parallels, The Arts House Trust, Auckland.
+          </p>
+          <p>
             <b>2023</b> - The Amber Room, Matt's Gallery, London.
           </p>
           <p>
