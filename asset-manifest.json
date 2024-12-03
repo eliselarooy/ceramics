@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9a77991a.css",
-    "main.js": "/static/js/main.1595a27d.js",
+    "main.js": "/static/js/main.7995a9d7.js",
     "static/js/453.408ddace.chunk.js": "/static/js/453.408ddace.chunk.js",
     "static/media/pleat1.JPG": "/static/media/pleat1.b151175aa8d18c877fad.JPG",
     "static/media/pleat2.JPG": "/static/media/pleat2.b4556fdd22e8024f654a.JPG",
@@ -25,11 +25,11 @@
     "static/media/curled-slab-smoke-fired.jpg": "/static/media/curled-slab-smoke-fired.8ac5f3247e5a391fe583.jpg",
     "index.html": "/index.html",
     "main.9a77991a.css.map": "/static/css/main.9a77991a.css.map",
-    "main.1595a27d.js.map": "/static/js/main.1595a27d.js.map",
+    "main.7995a9d7.js.map": "/static/js/main.7995a9d7.js.map",
     "453.408ddace.chunk.js.map": "/static/js/453.408ddace.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a77991a.css",
-    "static/js/main.1595a27d.js"
+    "static/js/main.7995a9d7.js"
   ]
 }
