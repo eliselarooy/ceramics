@@ -1,8 +1,4 @@
 import React from 'react';
-import pleatseries1 from '../galleryimages/pleat1.JPG';
-import pleatseries2 from '../galleryimages/pleat2.JPG';
-import supplecube from '../galleryimages/supplecube.JPG';
-import swollenbox from '../galleryimages/swollenbox.JPG';
 import concaveboatform2 from '../galleryimages/concave-boat-form-2.jpg';
 import concaveboatform3 from '../galleryimages/concave-boat-form-3.jpg';
 import concaveboatform from '../galleryimages/concave-boat-form.jpg';
@@ -15,6 +11,8 @@ import pointedovoid from '../galleryimages/pointed-ovoid.JPG';
 import danseurs1 from '../galleryimages/danseurs1.jpg';
 import danseurs2 from '../galleryimages/danseurs2.jpg';
 import danseurs3 from '../galleryimages/danseurs3.jpg';
+import danseurs4 from '../galleryimages/danseurs4.JPG';
+import danseurs5 from '../galleryimages/danseurs5.JPG';
 
 const Work = () => {
   return (
@@ -23,36 +21,23 @@ const Work = () => {
         <ul>
           <li>
             <img
-              src={pleatseries1}
-              alt="Wood fired ridge panel"
+              src={danseurs4}
+              alt="Wood fired candlesticks"
               className="gallery-img"
               loading="lazy"
             />
-            <p className="title">Pleat Series</p>
-            <p>Slab built, unglazed stoneware paper clay, wood fired</p>
+            <p className="title">Danseurs</p>
+            <p>Thrown and altered, unglazed stoneware, wood fired</p>
           </li>
           <li>
             <img
-              src={pleatseries2}
-              alt="Wood fired ridge panel]"
+              src={danseurs5}
+              alt="Wood fired candlesticks"
               className="gallery-img"
               loading="lazy"
             />
-            <p className="title">Pleat Series</p>
-            <p>Slab built, unglazed stoneware paper clay, wood fired</p>
-          </li>
-          <li>
-            <img
-              src={supplecube}
-              alt="Supple Cube"
-              className="gallery-img"
-              loading="lazy"
-            />
-            <p className="title">Supple Cube</p>
-            <p>
-              Thrown and altered, unglazed stoneware, inflated with bike pump,
-              wood fired
-            </p>
+            <p className="title">Danseurs</p>
+            <p>Thrown and altered, unglazed stoneware, wood fired</p>
           </li>
           <li>
             <img
@@ -92,16 +77,6 @@ const Work = () => {
               Thrown and altered, stoneware, wood ash grey, chartreuse crackle,
               dolomite glazes
             </p>
-          </li>
-          <li>
-            <img
-              src={swollenbox}
-              alt="Swollen Box"
-              className="gallery-img"
-              loading="lazy"
-            />
-            <p className="title">Swollen Box</p>
-            <p>Slab built, terracotta, Dumfries terra sigillata</p>
           </li>
           <li>
             <img
