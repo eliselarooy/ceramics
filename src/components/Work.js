@@ -27,7 +27,7 @@ const Work = () => {
               loading="lazy"
             />
             <p className="title">Danseurs</p>
-            <p>Thrown and altered, unglazed stoneware, wood fired</p>
+            <p>Thrown and altered, stoneware, wood fired</p>
           </li>
           <li>
             <img
@@ -37,7 +37,7 @@ const Work = () => {
               loading="lazy"
             />
             <p className="title">Danseurs</p>
-            <p>Thrown and altered, unglazed stoneware, wood fired</p>
+            <p>Thrown and altered, stoneware, wood fired</p>
           </li>
           <li>
             <img
