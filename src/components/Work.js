@@ -13,12 +13,47 @@ import danseurs2 from '../galleryimages/danseurs2.jpg';
 import danseurs3 from '../galleryimages/danseurs3.jpg';
 import danseurs4 from '../galleryimages/danseurs4.JPG';
 import danseurs5 from '../galleryimages/danseurs5.JPG';
+import leatherette from '../galleryimages/LRSamuelHartnett4.jpg';
+import pastplastic from '../galleryimages/LRSamuelHartnett.jpg';
+import pushedplastic from '../galleryimages/LRSamuelHartnett3.jpg';
 
 const Work = () => {
   return (
     <div className="contact-page container gallery-page">
       <div className="gallery">
         <ul>
+          <li>
+            <img
+              src={leatherette}
+              alt="Terracotta leathery piece"
+              className="gallery-img"
+              loading="lazy"
+            />
+            <p className="title">Leatherette</p>
+            <p>Thrown and altered, terracotta, terra sigillata</p>
+          </li>
+          <li>
+            <img
+              src={pastplastic}
+              alt="Three wood fired wall pieces"
+              className="gallery-img"
+              loading="lazy"
+            />
+            <p className="title">Past Plastic</p>
+            <p>Slab built, unglazed stoneware paper clay, wood fired</p>
+          </li>
+          <li>
+            <img
+              src={pushedplastic}
+              alt="Squished wall piece with two mounting blobs"
+              className="gallery-img"
+              loading="lazy"
+            />
+            <p className="title">Pushed Plastic</p>
+            <p>
+              Slab built and thrown, unglazed stoneware paper clay, wood fired
+            </p>
+          </li>
           <li>
             <img
               src={danseurs4}
