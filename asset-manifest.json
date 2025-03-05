@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9a77991a.css",
-    "main.js": "/static/js/main.d1258bf1.js",
+    "main.js": "/static/js/main.c7639671.js",
     "static/js/453.408ddace.chunk.js": "/static/js/453.408ddace.chunk.js",
     "static/media/danseurs4.JPG": "/static/media/danseurs4.00dde164065cdc3793ac.JPG",
     "static/media/danseurs2.jpg": "/static/media/danseurs2.b71c8765264401e1571e.jpg",
@@ -26,11 +26,11 @@
     "static/media/curled-slab-smoke-fired.jpg": "/static/media/curled-slab-smoke-fired.8ac5f3247e5a391fe583.jpg",
     "index.html": "/index.html",
     "main.9a77991a.css.map": "/static/css/main.9a77991a.css.map",
-    "main.d1258bf1.js.map": "/static/js/main.d1258bf1.js.map",
+    "main.c7639671.js.map": "/static/js/main.c7639671.js.map",
     "453.408ddace.chunk.js.map": "/static/js/453.408ddace.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a77991a.css",
-    "static/js/main.d1258bf1.js"
+    "static/js/main.c7639671.js"
   ]
 }
