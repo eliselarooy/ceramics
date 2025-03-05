@@ -23,6 +23,10 @@ const About = () => {
             <b>Exhibitions/Awards</b>
           </p>
           <p>
+            <b>2025</b> - Soaring in a Floating World, The Kyoto City KYOCERA
+            Museum Art Exhibition, Kyoto.
+          </p>
+          <p>
             <b>2024</b> - Pushing Parallels, The Arts House Trust, Auckland.
           </p>
           <p>
@@ -48,12 +52,12 @@ const About = () => {
           </p>
 
           <p>
-            <b>2019</b> - The Milk Has Turned Against Us Goldsmiths Design
+            <b>2019</b> - The Milk Has Turned Against Us, Goldsmiths Design
             Degree Show, Copeland Park, London.
           </p>
 
           <p>
-            <b>2016</b> - Saatchi Gallery/Deutsche Bank Art Prize for Schools
+            <b>2016</b> - Saatchi Gallery/Deutsche Bank Art Prize for Schools,
             Saatchi Gallery, London (shortlisted).
           </p>
         </div>
